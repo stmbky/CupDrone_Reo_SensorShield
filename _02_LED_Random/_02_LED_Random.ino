@@ -1,6 +1,6 @@
-const int RED = 10;         // 빨강LED는 D13에 연결
-const int GREEN = 11;       // 초록LED는 D12에 연결
-const int BLUE = 13;        // 파랑LED는 D11에 연결
+const int RED = 13;         // 빨강LED는 D13에 연결
+const int GREEN = 11;       // 초록LED는 D11에 연결
+const int BLUE = 10;        // 파랑LED는 D10에 연결
 
 void setup()
 {
