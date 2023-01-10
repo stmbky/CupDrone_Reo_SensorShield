@@ -1,6 +1,6 @@
-const int RED = 10;
+const int RED = 13;   
 const int GREEN = 11;
-const int BLUE = 13;
+const int BLUE = 10;
 
 void setup()
 {
