@@ -1,4 +1,4 @@
-const int LED = 13;        // 파란색 LED
+const int LED = 10;        // 파란색 LED
 const int BUTTON = 2;
 int val = 0;               // 버튼 초기 값
 int old_val = 0;           // 이전 버튼 값
